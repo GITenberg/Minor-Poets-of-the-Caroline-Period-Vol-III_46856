@@ -1,0 +1,50 @@
+_repo: Minor-Poets-of-the-Caroline-Period-Vol-III_46856
+contributor:
+  contributors:
+  - agent_name: King, Henry
+    birthdate: 1592
+    deathdate: 1669
+    gutenberg_agent_id: '44008'
+    url: http://www.gutenberg.org/2009/agents/44008
+    wikipedia: http://en.wikipedia.org/wiki/Henry_King_%28poet%29
+  - agent_name: Stanley, Thomas
+    birthdate: 1625
+    deathdate: 1678
+    gutenberg_agent_id: '36145'
+    url: http://www.gutenberg.org/2009/agents/36145
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Stanley_%28author%29
+  - agent_name: Flatman, Thomas
+    birthdate: 1637
+    deathdate: 1688
+    gutenberg_agent_id: '43996'
+    url: http://www.gutenberg.org/2009/agents/43996
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Flatman
+  - agent_name: Whiting, Nathaniel
+    gutenberg_agent_id: '43997'
+    url: http://www.gutenberg.org/2009/agents/43997
+  - agent_name: Cleveland, John
+    birthdate: 1613
+    deathdate: 1658
+    gutenberg_agent_id: '43995'
+    url: http://www.gutenberg.org/2009/agents/43995
+    wikipedia: http://en.wikipedia.org/wiki/John_Cleveland
+  creator:
+    editor:
+      agent_name: Saintsbury, George
+      alias: Saintsbury, George Edward Bateman
+      birthdate: 1845
+      deathdate: 1933
+      gutenberg_agent_id: '4608'
+      url: http://www.gutenberg.org/2009/agents/4608
+      wikipedia: http://en.wikipedia.org/wiki/George_Saintsbury
+description: ''
+gutenberg_issued: '2014-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46856'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Minor Poets of the Caroline Period, Vol III
+url: http://www.gutenberg.org/ebooks/46856
