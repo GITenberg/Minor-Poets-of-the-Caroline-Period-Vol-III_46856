@@ -1,4 +1,5 @@
 _repo: Minor-Poets-of-the-Caroline-Period-Vol-III_46856
+_version: 0.1.0
 contributor:
   contributors:
   - agent_name: King, Henry
@@ -37,7 +38,12 @@ contributor:
       gutenberg_agent_id: '4608'
       url: http://www.gutenberg.org/2009/agents/4608
       wikipedia: http://en.wikipedia.org/wiki/George_Saintsbury
+covers:
+- cover_type: archival
+  image_path: 46856-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46856#Minor-Poets-of-the-Caroline-Period-Vol-III
 gutenberg_issued: '2014-09-14'
 gutenberg_type: Text
 identifiers:
